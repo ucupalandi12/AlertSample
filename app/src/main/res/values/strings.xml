@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alert Sample</string>
+    <string name="alert_button">Alert</string>
+    <string name="alert_title">Alert! Mayday!</string>
+    <string name="alert_message">Click OK to continue, or Cancel to Stop:</string>
+    <string name="ok">OK</string>
+    <string name="pressed_ok">You Pressed OK!</string>
+    <string name="cancel">CANCEL</string>
+    <string name="pressed_cancel">You Pressed CANCEL!</string>
+
+</resources>
